@@ -42,7 +42,7 @@ The dashboard provides valuable insights for business growth, improved marketing
 - Provided data-driven strategies to optimize marketing and sales efforts.
 
 ## Key Sales Insights
-- ** Strong Revenue & Sales** – Total revenue is **₹35,20,984**, with **3,045 units sold** and an **average customer spend of ₹3,520.98**.
+- **Strong Revenue & Sales** – Total revenue is **₹35,20,984**, with **3,045 units sold** and an **average customer spend of ₹3,520.98**.
 
 - **Seasonal Sales Trends** – Sales peak in **February, September, and November**, with higher activity in the **afternoon and evening**.
 
