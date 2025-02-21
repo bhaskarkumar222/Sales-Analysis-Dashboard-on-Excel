@@ -40,3 +40,15 @@ The dashboard provides valuable insights for business growth, improved marketing
 - Highlighting high-performing cities and customer preferences
 - Recognizing gaps in seasonal demand to drive targeted promotions
 - Provided data-driven strategies to optimize marketing and sales efforts.
+
+## Key Sales Insights
+- ** Strong Revenue & Sales** – Total revenue is **₹35,20,984**, with **3,045 units sold** and an **average customer spend of ₹3,520.98**.
+
+- **Seasonal Sales Trends** – Sales peak in **February, September, and November**, with higher activity in the **afternoon and evening**.
+
+- **Best-Selling Products & Categories** – Colors, Soft Toys, and Sweets are the top categories, while Magman Set, Quia Gift, and Dolores Gift perform best.
+
+- **Top Cities for Orders** – **Imphal, Dhanbad, and Kavali lead** in sales, showing **high demand** in these locations.
+
+- **Best & Low-Performing Occasions** – Anniversary and Raksha Bandhan drive the most sales, while Diwali sales are lower than expected.
+
