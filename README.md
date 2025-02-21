@@ -22,7 +22,7 @@ The objective is to analyze sales performance using key metrics such as:
 - Filters & Slicers: Added filters for occasion, delivery date, and order date for easy exploration.
 - Data Insights: Designed charts to display revenue trends, customer behavior, and top-performing products.
 
-<img src="images/dashboard.png" alt="Sales Analysis Dashboard" width="600"/>
+<img src="https://github.com/bhaskarkumar222/Sales-Analysis-Dashboard-on-Excel/blob/2b3d00c90463423d8f902fabcfbb3f303e9d9ba4/Screenshot%202025-02-20%20211049.png" alt="Sales Analysis Dashboard" width="1000"/>
 
 
 ## Result
