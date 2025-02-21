@@ -22,6 +22,9 @@ The objective is to analyze sales performance using key metrics such as:
 - Filters & Slicers: Added filters for occasion, delivery date, and order date for easy exploration.
 - Data Insights: Designed charts to display revenue trends, customer behavior, and top-performing products.
 
+<img src="images/dashboard.png" alt="Sales Analysis Dashboard" width="600"/>
+
+
 ## Result
 The dashboard provides valuable insights for business growth, improved marketing strategies, and enhanced customer experience by:
 - Identifying top-selling products and peak sales periods
